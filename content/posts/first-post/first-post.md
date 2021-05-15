@@ -1,15 +1,17 @@
 ---
-title: First post
-description: The first post is the most memorable one.
-date: 2020-04-16T11:00:00.000Z
+title: An Introduction to This Project
+description: Please read first!
+date: 2021-05-9T11:00:00.000Z
 ---
 
-# h1
+### Hello!
 
-## h2
+I'm making this site as practice in Cloudflare Workers. If you'd like to learn how I did this, feel free to check out these resources!
 
-### h3
+[Cloudflare Developer Week Challenges](https://blog.cloudflare.com/developer-week-challenges)
 
-Normal text
+[Clouflare Workers Live Walk-Through](https://cloudflare.tv/event/2jzvrTpkjeeT3no4E5370H)
+
+Also, here's a picture of a cat (it came with the template, and it felt like a waste not to use)
 
 ![Cat](cat.jpg)

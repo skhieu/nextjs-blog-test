@@ -1,15 +1,15 @@
 {
   "siteMetadata": {
-    "title": "Next.js Starter Blog",
+    "title": "Samantha Khieu",
     "author": {
-      "name": "Jose Felix",
-      "summary": "who works building clean user interfaces with React."
+      "name": "Samantha Khieu",
+      "summary": "Digital marketer. Learning to code, one Youtube tutorial at a time."
     },
     "description": "A blog created with Next.js and Tailwind.css",
     "siteUrl": "https://nextjs-starter-blog-demo.netlify.app/",
     "language": "en-US",
     "social": {
-      "twitter": "Jose_R_Felix"
+      "instagram": "visit.ca"
     }
   }
 }
